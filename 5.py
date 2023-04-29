@@ -12,4 +12,8 @@ elif strOne != strThree:
 else:
     print("b is greater then a")
 
+
+a = 3
+
 b = 2.5
+
