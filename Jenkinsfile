@@ -5,6 +5,6 @@ node{
     }
     stage("execute"){
         bat "dir"
-        bat "python disk_resizer.py"
+        bat "python 5.py"
     }
 }
