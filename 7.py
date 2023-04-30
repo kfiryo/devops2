@@ -23,3 +23,7 @@ if f is h:
 
 if type(d) is int:
     print("kkk")
+
+
+def print_name(name):
+    print(name)
